@@ -6,7 +6,7 @@ This project aims to develop a system for automatic detection of face mask usage
 ## Technologies Used
 - Python
 - TensorFlow/Keras
-- Kaggle dataset (link to dataset if public)
+- Kaggle dataset
 
 ## Features
 - Image classification into "with mask" and "without mask" categories.
